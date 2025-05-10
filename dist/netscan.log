@@ -1,2 +1,5 @@
-2025-04-30 16:32:33,966 - NetScan - WARNING - İkon bulunamadı: C:\Users\emre.gocmen\Downloads\netscan\dist\icon.ico veya C:\Users\emre.gocmen\Downloads\netscan\dist\icon.png
-2025-04-30 16:32:33,966 - NetScan - INFO - Npcap zaten kurulu, kurulum atlanıyor.
+2025-05-07 21:28:50,665 - NetScan - WARNING - İkon bulunamadı: C:\Users\HUAWEI\Documents\GitHub\netscan-pro\dist\icon.ico veya C:\Users\HUAWEI\Documents\GitHub\netscan-pro\dist\icon.png
+2025-05-07 21:28:50,665 - NetScan - INFO - Npcap zaten kurulu, kurulum atlanıyor.
+2025-05-07 21:28:59,014 - NetScan - INFO - Scapy ile ARP taraması yapılıyor...
+2025-05-07 21:28:59,014 - NetScan - ERROR - Scapy ARP taraması sırasında hata: Sniffing and sending packets is not available at layer 2: winpcap is not installed. You may use conf.L3socket or conf.L3socket6 to access layer 3
+2025-05-07 21:28:59,014 - NetScan - INFO - Alternatif ARP tarama yöntemi kullanılıyor...
